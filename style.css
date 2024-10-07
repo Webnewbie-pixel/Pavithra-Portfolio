@@ -312,7 +312,7 @@ body {
   position:absolute;
   padding:-10px;
   inset:2px;
-  background-color:  #ff1493;
+  background-color:  #fa59af;
   border-radius:50%;
   display:flex;
   align-items:center;
@@ -324,6 +324,7 @@ body {
   width:100%;
   border-radius:50%;
   object-fit:cover;
+  object-fit:contain;
   
   
 }
